@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vxlcdm
 - 👀 I’m interested in diving deep into all sorts of technologies
-- 🌱 I’m currently learning Java, Spring, JS, & Angular 
+- 🌱 I’m currently learning Java, Javacsript, Spring, React.js, & Node
 - 💞️ 
 - 📫 
 - 😄 
